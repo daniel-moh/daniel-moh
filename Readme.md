@@ -1,4 +1,4 @@
-## Hey 👋, This is Awais 
+## Hey 👋, This is Daniel 
 
 [![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dannmoh@gmail.com)
 [![ikechimbeyi](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danmoh)
