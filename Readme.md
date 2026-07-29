@@ -1,41 +1,79 @@
-## Hey 👋, This is Daniel 
+# Hey 👋, I’m Daniel Moh
 
-[![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dannmoh@gmail.com)
-[![ikechimbeyi](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danmoh)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/daniel-moh)
+**Automation & Integration Developer | AI Agents | Business Systems**
 
-I’m a Data Engineer\Data Consultant  with extensive experience in designing, implementing, and managing robust data solutions. My expertise spans across database administration, data pipeline development, ETL processes, and optimizing SQL-based systems. I’m passionate about building scalable architectures and ensuring data integrity, security, and high availability.
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:danielmoh2012@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Moh-blue)](https://linkedin.com/in/daniel-moh88)
+[![Technical Demo](https://img.shields.io/badge/YouTube-Technical%20Demo-red)](https://www.youtube.com/watch?v=vur6Oha4mBI)
 
-Currently, I am working with customer data to find ways of attracting more followers and increasing business metrics. My previous experience in SMM and years of collaborating with clients have helped me develop my communication, analytical, time¬ management, and problem-solving skills. In year, I enrolled in the Data Analyst program. The curriculum covered Python (Pandas, NumPy, Beautiful Soup), data visualization (Matplotlib, Plotly, Tableau), machine learning (scikit-learn, NLTK, TensorFlow), SQL, and more. It also involved numerous practical projects.
+I design and implement business systems that replace repetitive manual work with reliable automation, integrations and AI-assisted workflows.
 
-Areas of Expertise:  
-Database Administration: SQL Server, PostgreSQL, MySQL, Database Replication, High Availability & Disaster Recovery
-Data Engineering: ETL Pipelines, Data Warehousing, Kafka, CDC, Data Migrations, and Integrations
-Cloud Platforms: AWS, Azure, GCP
-Programming: SQL, Python, Bash
-Tools & Technologies: Apache Kafka, Hadoop, Spark, Docker, Kubernetes, Git, Jenkins, DBT
-I’m always looking to collaborate on projects that push the boundaries of data architecture and performance.
+My work includes gathering requirements, mapping business processes, designing workflow logic, integrating external platforms through APIs and webhooks, deploying systems and troubleshooting production failures.
 
-Some facts about me:
+## What I Work With
 
-- I enjoy participating in professional events, especially those organized in the Data Science community. 
-- At the moment, I am training to become a Data Specialist! 
-- 🎯 My goals for 2025: landing my dream in data!
+- **Automation:** n8n, Zapier, scheduled workflows and business-process automation
+- **Integrations:** REST APIs, webhooks, OAuth, authentication and data mapping
+- **AI Agents:** Claude, OpenClaw, Hermes, prompt and tool configuration
+- **Development:** JavaScript, PHP, HTML, CSS and WordPress
+- **Infrastructure:** Linux VPS, DNS, hosting, deployments, monitoring and backups
+- **Delivery:** Requirements analysis, testing, debugging, documentation and user support
 
+## Selected Work
 
-## Areas of Expertise
+### AI Agent and Workflow Automation
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+I have designed and deployed task-oriented AI agents that connect natural-language interfaces with business workflows and external systems.
 
-## Certifications
+My responsibilities included:
 
+- Designing agent and workflow logic
+- Configuring n8n automation
+- Connecting REST APIs and webhooks
+- Handling authentication and data transformation
+- Deploying systems on Linux infrastructure
+- Testing workflows end to end
+- Diagnosing production failures
+- Preparing technical documentation and user guidance
 
+🎥 **Technical demonstration:**  
+https://www.youtube.com/watch?v=vur6Oha4mBI
 
-[![AWS Certified Data Engineer – Associate](https://img.shields.io/badge/AWS-Solutions%20Architect-blue)](https://www.credly.com/badges/f2156571-0570-42da-aa36-d9672b8cc974) 
-[![Certified AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-Solutions%20Architect-blue)](https://www.credly.com/badges/348f5bc1-232d-4c08-85a7-67edfcf31643) 
+### Discord Website-Concept Workflow
 
+Designed a Discord-based workflow that converts natural-language project descriptions into structured website concepts and build outputs.
 
-Feel free to explore my repositories or connect with me!
+The solution combines:
+
+- Discord user input
+- AI interpretation
+- Structured workflow routing
+- Automated content generation
+- Error handling and output delivery
+
+### Web Development
+
+Delivered more than 100 production websites using WordPress, JavaScript, PHP, HTML and CSS, including third-party integrations, forms, analytics, hosting and deployment.
+
+## Current Focus
+
+I am currently developing deeper capability in:
+
+- Production AI-agent systems
+- Reliable LLM workflow design
+- API and systems integration
+- Workflow monitoring and evaluation
+- Automation failure handling
+- Secure deployment practices
+
+## Work Samples
+
+Some of my professional work is client-owned and cannot be published publicly. This profile contains sanitized demonstrations, architecture documentation and representative workflow examples that do not expose client data or credentials.
+
+I am open to international opportunities in:
+
+- Automation Development
+- Integration Development
+- Analyst Programming
+- Business Systems Development
+- AI Workflow Engineering
