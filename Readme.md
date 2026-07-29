@@ -3,8 +3,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dannmoh@gmail.com)
 [![ikechimbeyi](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danmoh)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/daniel-moh)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-24292E?style=flat&logo=Google-Chrome&logoColor=white)](https://your-portfolio-url.com)
-<p align=left> <img src=https://komarev.com/ghpvc/?username=daniel-moh alt=ch-daniel-moh /> </p>
 
 I’m a Data Engineer\Data Consultant  with extensive experience in designing, implementing, and managing robust data solutions. My expertise spans across database administration, data pipeline development, ETL processes, and optimizing SQL-based systems. I’m passionate about building scalable architectures and ensuring data integrity, security, and high availability.
 
